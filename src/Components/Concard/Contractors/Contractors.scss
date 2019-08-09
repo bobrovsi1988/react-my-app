@@ -1,5 +1,10 @@
 .contractors{
-  width: 60%;
+
 display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.d-flex{
+  display: flex;
+
 }

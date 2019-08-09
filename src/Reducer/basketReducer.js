@@ -4,6 +4,7 @@ const basketReducer = (state = [], action) => {
             return state.concat([action.data])
         default:
             return state;
+    }
 }
 
 export default basketReducer;

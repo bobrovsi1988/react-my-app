@@ -1,7 +1,21 @@
 .product{
-    width: 33%;
+
   img{
     width: 100px;
     height: 100px;
+  }
+  .card{
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    h3{
+      margin: 0;
+    padding: 0;
+    }
+    .modal_button{
+      margin: 3px;
+    }
   }
 }
