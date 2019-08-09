@@ -1,0 +1,25 @@
+[
+
+    {
+      "name":"Perc",
+      "pack":"banka",
+      "weight":1500,
+      "descmin":"bla bla bla",
+      "descmax":"many bla bla bla",
+      "price":222,
+      "img":"PCM"
+      
+    },
+    {
+      "name":"Perc",
+      "pack":"banka",
+      "weight":500,
+      "descmin":"bla bla bla",
+      "descmax":"many bla bla bla",
+      "price":123,
+      "img":"PCM"
+
+    }
+
+  
+]
